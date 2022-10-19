@@ -1,6 +1,6 @@
 ## Hi there👋, I'm the N0TRIA
 
-- 🔭 Currently working on Front-End
+- 🔭 Currently studying Front-End
 - 🌱 Learning JavaScript
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can wiggle my ears 😅
